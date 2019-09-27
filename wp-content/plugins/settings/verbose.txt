@@ -1,0 +1,106 @@
+*   Trying 67.55.100.13...
+* TCP_NODELAY set
+* Connected to www.taxidrivermovie.com (67.55.100.13) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN, server did not agree to a protocol
+* Server certificate:
+*  subject: OU=Domain Control Validated; OU=PositiveSSL; CN=taxidrivermovie.com
+*  start date: Oct 18 00:00:00 2018 GMT
+*  expire date: Oct 18 23:59:59 2019 GMT
+*  subjectAltName: host "www.taxidrivermovie.com" matched cert's "www.taxidrivermovie.com"
+*  issuer: C=GB; ST=Greater Manchester; L=Salford; O=COMODO CA Limited; CN=COMODO RSA Domain Validation Secure Server CA
+*  SSL certificate verify ok.
+> GET /ana-braga-nipple-slip-underboob-while-shopping/ HTTP/1.1
+Host: www.taxidrivermovie.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: */*
+Referer: http://www.bing.com/
+
+< HTTP/1.1 200 OK
+< Date: Thu, 03 Jan 2019 12:47:39 GMT
+< Server: Apache
+< Last-Modified: Thu, 03 Jan 2019 12:20:24 GMT
+< ETag: "49aea-57e8cc97bd90b"
+< Accept-Ranges: bytes
+< Content-Length: 301802
+< Vary: Accept-Encoding,User-Agent
+< Content-Security-Policy: upgrade-insecure-requests;
+< Referrer-Policy: 
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #0 to host www.taxidrivermovie.com left intact
+* Found bundle for host www.taxidrivermovie.com: 0x22034c0 [can pipeline]
+* Could pipeline, but not asked to!
+* Re-using existing connection! (#0) with host www.taxidrivermovie.com
+* Connected to www.taxidrivermovie.com (67.55.100.13) port 443 (#0)
+> GET /wp-content/uploads/2018/11/ana-braga-101518.jpg HTTP/1.1
+Host: www.taxidrivermovie.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: */*
+Referer: http://www.bing.com/
+
+< HTTP/1.1 200 OK
+< Date: Thu, 03 Jan 2019 12:47:40 GMT
+< Server: Apache
+< Last-Modified: Thu, 15 Nov 2018 12:45:31 GMT
+< ETag: "69da4-57ab36d0f30c0"
+< Accept-Ranges: bytes
+< Content-Length: 433572
+< Cache-Control: max-age=31536000
+< Expires: Fri, 03 Jan 2020 12:47:40 GMT
+< Content-Security-Policy: upgrade-insecure-requests;
+< Referrer-Policy: 
+< Content-Type: image/jpeg
+< 
+* Connection #0 to host www.taxidrivermovie.com left intact
+* Found bundle for host www.taxidrivermovie.com: 0x22034c0 [can pipeline]
+* Could pipeline, but not asked to!
+* Re-using existing connection! (#0) with host www.taxidrivermovie.com
+* Connected to www.taxidrivermovie.com (67.55.100.13) port 443 (#0)
+> GET /wp-content/uploads/2018/11/ana-braga-101518.jpg HTTP/1.1
+Host: www.taxidrivermovie.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: */*
+Referer: http://www.taxidrivermovie.com
+
+< HTTP/1.1 200 OK
+< Date: Thu, 03 Jan 2019 12:47:40 GMT
+< Server: Apache
+< Last-Modified: Thu, 15 Nov 2018 12:45:31 GMT
+< ETag: "69da4-57ab36d0f30c0"
+< Accept-Ranges: bytes
+< Content-Length: 433572
+< Cache-Control: max-age=31536000
+< Expires: Fri, 03 Jan 2020 12:47:40 GMT
+< Content-Security-Policy: upgrade-insecure-requests;
+< Referrer-Policy: 
+< Content-Type: image/jpeg
+< 
+* Connection #0 to host www.taxidrivermovie.com left intact
+*   Trying 198.54.114.189...
+* TCP_NODELAY set
+* Connected to sexcortgirl.com (198.54.114.189) port 80 (#1)
+> GET /wp-content/uploads/2019/01/ana-braga-101518.jpg HTTP/1.1
+Host: sexcortgirl.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: */*
+Referer: http://www.taxidrivermovie.com
+
+< HTTP/1.1 404 Not Found
+< Date: Thu, 03 Jan 2019 12:47:40 GMT
+< Server: Apache
+< X-Powered-By: PHP/5.6.39
+< Expires: Wed, 11 Jan 1984 05:00:00 GMT
+< Cache-Control: no-cache, must-revalidate, max-age=0
+< Link: <http://sexcortgirl.com/wp-json/>; rel="https://api.w.org/"
+< Referrer-Policy: 
+< Transfer-Encoding: chunked
+< Content-Type: text/html; charset=UTF-8
+< 
+* Connection #1 to host sexcortgirl.com left intact

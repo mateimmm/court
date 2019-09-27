@@ -1,0 +1,9 @@
+[06-Mar-2017 19:34:04 America/Los_Angeles] PHP Fatal error:  Call to undefined function is_home() in /home/presta/public_html/www/barcelonights.com/wp-content/themes/pinterest/index.php on line 2
+[10-Sep-2017 04:03:38 America/Los_Angeles] PHP Fatal error:  Call to undefined function is_home() in /home/presta/public_html/www/barcelonights.com/wp-content/themes/pinterest/index.php on line 2
+[22-Sep-2017 22:19:42 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/presta/public_html/www/barcelonights.com/wp-content/themes/pinterest/404.php on line 1
+[29-Sep-2017 07:14:53 America/Los_Angeles] PHP Fatal error:  Call to undefined function get_header() in /home/presta/public_html/www/barcelonights.com/wp-content/themes/pinterest/404.php on line 1
+[13-Dec-2017 21:36:56 America/Los_Angeles] PHP Fatal error:  Call to undefined function is_home() in /home/presta/public_html/www/barcelonights.com/wp-content/themes/pinterest/index.php on line 2
+[15-Aug-2018 04:12:10 America/New_York] PHP Fatal error:  Call to undefined function is_home() in /home/prescmsa/travlimg.com/wp-content/themes/pinterest/index.php on line 2
+[31-Oct-2018 13:19:57 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/prescmsa/veeboard.com/wp-includes/capabilities.php on line 598
+[31-Oct-2018 13:20:21 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/prescmsa/veeboard.com/wp-includes/capabilities.php on line 598
+[31-Oct-2018 13:21:37 UTC] PHP Fatal error:  Call to undefined function wp_get_current_user() in /home/prescmsa/veeboard.com/wp-includes/capabilities.php on line 598
